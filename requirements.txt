@@ -1,0 +1,22 @@
+# Data storage libraries
+pandas
+numpy
+
+# Utils
+
+tqdm
+
+# Plotting libraries
+matplotlib
+plotly
+seaborn
+wordcloud
+pillow
+
+# Libraries to work with string
+regex
+
+# Analitical libraries
+nltk
+transformers
+scipy
